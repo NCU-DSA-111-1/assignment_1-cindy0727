@@ -1,7 +1,6 @@
-#include "backprop.h"
-#include "layer.h"
-#include "neuron.h"
-#include <math.h>
+#include "../inc/backprop.h"
+#include "../inc/layer.h"
+#include "../inc/neuron.h"
 
 #define trainingtimes 20000
 
