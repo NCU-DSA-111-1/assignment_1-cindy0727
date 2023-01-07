@@ -1,7 +1,7 @@
 # datastructure_HW1
 ## gcc compile c code
-compile : make
-execute : ./bin/main
+1. compile : make
+2. execute : ./bin/main
 
 ## usuage
 按照以下資訊輸入
